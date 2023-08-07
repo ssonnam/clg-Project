@@ -16,7 +16,7 @@ LASjC" crossorigin="anonymous">
         <meta http-equiv="Content-Type" content="text/html; 
 
 charset=UTF-8">
-        <title>Criteria 1.1</title>
+        <title>Criteria 1.2.2 and 1.2.3</title>
     </head>
     <body>
         <nav class="navbar navbar-light bg-primary">
