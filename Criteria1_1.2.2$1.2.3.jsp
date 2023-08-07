@@ -25,6 +25,32 @@ charset=UTF-8">
     </div>
         </nav> 
         <form>
+     
+<div class="my-3 mx-4">       
+<label for="dp">Department:</label><br>
+    <select name="dp" id="dp">
+      <option selected>Choose Department</option>
+      <option value="1">Chemistry</option>
+      <option value="2">Physics</option>
+      <option value="3">Microbiology</option>
+      <option value="4">Commerce</option>
+      <option value="5">Accounts(M.COm)</option>
+      <option value="6">Economics</option>
+      <option value="7">Sociology</option>
+      <option value="8">POl. sc.</option>
+      <option value="9">Hindi</option>
+      <option value="10">Computer Science</option>
+      <option value="11">BMS</option>
+      <option value="12">BAF</option>
+      <option value="13">Psychology</option>
+      <option value="14">Botany</option>
+      <option value="15">Zoology</option>
+      <option value="16">Maths</option>
+      <option value="17">Foundation course</option>
+    </select>
+    </div> 
+    
+
        
             <div class="my-3 mx-4">
         <label for="nm">Name of Add on/Certificate Program 
