@@ -1,0 +1,28 @@
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+<link href="Welcome%20Page_files/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    
+<title>Welcome Page</title></head>
+
+    
+   <body><img src="Welcome%20Page_files/img_1.jpg" alt="royal clg logo" width="500">
+<br>
+<div>
+    <h2 class="text-center">Welcome</h2>
+    <h2 class="text-center">To</h2>
+    <h2 class="text-center">Annual Quality Assurance Report  </h2>
+    <h2 class="text-center">(AQAR)</h2>
+</div>
+
+<div class="mt-4">    
+<h3>New to this App?</h3>
+<a href="file:///C:/Users/thin7/Desktop/index.jsp" class="btn btn-primary">Register</a> 
+<h3>Already Registered?</h3>
+<a href="file:///C:/Users/thin7/Desktop/login.jsp" class="btn btn-primary">Login</a> 
+</div>
+    
+    <script src="Welcome%20Page_files/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
+    <script src="Welcome%20Page_files/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"></script>
+
+</body></html>
