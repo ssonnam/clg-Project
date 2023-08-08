@@ -21,11 +21,22 @@ charset=UTF-8">
     <body>
         <nav class="navbar navbar-light bg-primary">
   <div class="container-fluid">
-    <a class="navbar-brand" href="#">1.1</a>
+    <a class="navbar-brand" href="#">Criteria 1: 1.2.2 and 
+
+1.2.3</a>
     </div>
         </nav> 
-        <form>
-     
+<div class="my-3 mx-4"> 
+<h4>>1.2.2: Number of Add on/Certificate programs Offered 
+
+During The Year.</h4>
+<h4>>1.2.3: Number of Students Enrolled in Certificate/ 
+
+Add-on programs as against the Total Number Of Students 
+
+During THe Year.</h4>
+ </div>
+<form>
 <div class="my-3 mx-4">       
 <label for="dp">Department:</label><br>
     <select name="dp" id="dp">
@@ -55,7 +66,7 @@ charset=UTF-8">
             <div class="my-3 mx-4">
         <label for="nm">Name of Add on/Certificate Program 
 
-offered:</label>
+offered:</label><br>
         <input type="Text" name="nm" id="nm" size="60" >
       </div>
       
